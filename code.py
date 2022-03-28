@@ -31,16 +31,13 @@ while(True):
 
 	# Display the resulting frame
 	cv2.imshow('frame', frame)
+	# press 'q' to quit the video window
 	if cv2.waitKey(1) & 0xFF == ord('q'):
 		break
 
 # When everything done, release the capture
 cap.release()
 cv2.destroyAllWindows()
-
-
-
-
 
 
 
