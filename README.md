@@ -1,5 +1,6 @@
-# Face-detection Project 
-### Project 1
+# Face-detection Project
+
+### Machine Learning Project 1 
 
 
 
