@@ -1,5 +1,5 @@
 # Face-detection Project
 
-### Machine Learning Project 1 
+### Machine Learning 
 
 ### Face Detection From live Video
